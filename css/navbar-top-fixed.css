@@ -1,0 +1,11 @@
+/* Show it is fixed to the top */
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+}
+
+.banner {
+  color: #0f5132;
+  text-align: center;
+  font-style: italic ;
+}
